@@ -11,3 +11,6 @@ body {
 		color-stop(76%, indigo),
 		color-stop(1.00, pink));
 }
+.hplogo{
+	 background:url('https://i.ibb.co/VV8HZN4/images1.png') no-repeat center center;
+}
