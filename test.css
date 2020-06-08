@@ -4,7 +4,7 @@
 body {
   background-image: -webkit-gradient(linear,  left top,  left bottom, 
     color-stop(0.00, red), 
-		color-stop(16%, green),
+		color-stop(16%, white),
 		color-stop(32%, white),
 		color-stop(48%, lightgrey),
 		color-stop(60%, blue),
