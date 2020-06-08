@@ -6,11 +6,8 @@ body {
     color-stop(0.00, red), 
 		color-stop(16%, white),
 		color-stop(32%, white),
-		color-stop(48%, lightgrey),
-		color-stop(60%, blue),
+		color-stop(48%, white),
+		color-stop(60%, white),
 		color-stop(76%, indigo),
 		color-stop(1.00, pink));
-}
-.hplogo{
-	 background:url('https://i.ibb.co/VV8HZN4/images1.png') no-repeat center center;
 }
